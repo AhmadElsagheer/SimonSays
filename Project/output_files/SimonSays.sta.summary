@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -6.257
+TNS   : -97.698
+
+Type  : Slow 1200mV 85C Model Setup 's0'
+Slack : -5.815
+TNS   : -49.382
+
+Type  : Slow 1200mV 85C Model Setup 'oneHZClk:comb_3|outClock'
+Slack : -3.099
+TNS   : -31.973
+
+Type  : Slow 1200mV 85C Model Hold 'oneHZClk:comb_3|outClock'
+Slack : 0.440
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.629
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 's0'
+Slack : 0.714
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -45.405
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 's0'
+Slack : -3.000
+TNS   : -3.410
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'oneHZClk:comb_3|outClock'
+Slack : -1.285
+TNS   : -16.705
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -5.683
+TNS   : -85.686
+
+Type  : Slow 1200mV 0C Model Setup 's0'
+Slack : -5.266
+TNS   : -44.349
+
+Type  : Slow 1200mV 0C Model Setup 'oneHZClk:comb_3|outClock'
+Slack : -2.864
+TNS   : -29.098
+
+Type  : Slow 1200mV 0C Model Hold 'oneHZClk:comb_3|outClock'
+Slack : 0.387
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.575
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 's0'
+Slack : 0.634
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -45.405
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 's0'
+Slack : -3.000
+TNS   : -3.209
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'oneHZClk:comb_3|outClock'
+Slack : -1.285
+TNS   : -16.705
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -2.558
+TNS   : -31.675
+
+Type  : Fast 1200mV 0C Model Setup 's0'
+Slack : -2.359
+TNS   : -19.429
+
+Type  : Fast 1200mV 0C Model Setup 'oneHZClk:comb_3|outClock'
+Slack : -1.174
+TNS   : -9.946
+
+Type  : Fast 1200mV 0C Model Hold 'oneHZClk:comb_3|outClock'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 's0'
+Slack : 0.219
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -38.046
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 's0'
+Slack : -3.000
+TNS   : -3.453
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'oneHZClk:comb_3|outClock'
+Slack : -1.000
+TNS   : -13.000
+
+------------------------------------------------------------

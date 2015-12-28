@@ -1,0 +1,4 @@
+module Random(output reg[3:0] out);
+	out = $time[3:0];
+
+endmodule
